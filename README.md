@@ -7,15 +7,36 @@ Welcome to my social media app project – a mobile-first platform featuring sto
 
 ## 🔗 Live Demo
 
-👉 [Click to View the App](https://support.w3itexperts.com/us/QtGibQRD)
+👉 [MeetFlow - React Native Expo Social Sharing](https://support.w3itexperts.com/us/QtGibQRD)
 
 > *Best viewed on mobile or emulated devices*
 
 ---
 
-## 🎥 App Preview Video
+## 🔗 Live Demo
 
-📽️ [Watch on Google Drive](https://drive.google.com/file/d/1VDSsmVhJUalcMo2WbDyZtVJb5Z2MMxc7/view)
+📽️ [Instagram Clone App Template in React Native](https://drive.google.com/file/d/1-5zo3MY0rcHmDVHVDZYP01azKtmBYWpj/view)
+
+---
+
+
+## 🔗 Live Demo
+
+📽️ [Tasveer - Social Media App](https://drive.google.com/file/d/1TbYQhK9AvKJC9-452rb9qfLpEBaZRUPl/view?usp=sharing)
+
+---
+
+
+## 🔗 Live Demo
+
+📽️ [Triplan - Social Travel React ](https://www.dropbox.com/scl/fi/zwheribl320x4531m2zj3/Triplan_20250107.apk?rlkey=vkc84izgj76nl6727itjcsrjf&e=2&dl=0)
+
+---
+
+
+## 🔗 Live Demo
+
+📽️ [SocialSnap - Instagram App](https://drive.google.com/file/d/18Rx2nqzqQRapopvf66IdlrcJcS6p7o2X/view)
 
 ---
 
@@ -46,12 +67,6 @@ I'm **Gurpreet Singh**, a full stack/mobile developer with a passion for buildin
 
 ---
 
-## 📫 Contact
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Portfolio**: Coming Soon!
-
----
 
 > Thank you for checking out my project!

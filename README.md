@@ -69,4 +69,9 @@ I'm **Gurpreet Singh**, a full stack/mobile developer with a passion for buildin
 
 
 
-> Thank you for checking out my project!
+## 📬 Contact
+
+If you’d like to work together or have any questions, feel free to reach out:
+
+- **Email:** gurpreett.singhh1469@gmail.com  
+- **Whatsapp:** [+919910771539](http://wa.me/919910771539)  

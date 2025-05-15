@@ -1,7 +1,7 @@
 # gurpreet-portfolios
-# 📱 Social Media App – Portfolio by Gurpreet Singh
+# 📱 Portfolio by Gurpreet Singh
 
-Welcome to my social media app project – a mobile-first platform featuring stories, filters, real-time feeds, and more. Designed with performance and user experience in mind.
+
 
 ---
 
